@@ -1,0 +1,18 @@
+.counter {
+    -webkit-box-shadow: 3px 0px 5px 4px rgba(0,0,0, 0.2);  
+     -moz-box-shadow:    3px 0px 5px 4px rgba(0,0,0, 0.2);  
+    box-shadow:         3px 0px 5px 4px rgba(0,0,0, 0.2); 
+    margin: 0 auto;
+    height: 300px;
+    width: 400px;
+}
+
+.counter-display {
+    height: 218px;
+}
+
+.counter-button-panel {
+    .btn {
+        height: 80px;
+    }
+}
